@@ -16,7 +16,6 @@ I am not just a Developer, here are some of my other interests and hobbies:
   - Greek Mythology 🔱
   - Web Applications and System Security 🛡️
   - Hacktivist 🌐
-  - 
   
 ✨ You can find some of my public Minecraft Resources over on my Spigot and MC-Market Profiles: 
 (https://www.spigotmc.org/members/minerbeef.433412/) 
