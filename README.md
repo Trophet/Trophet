@@ -1,6 +1,6 @@
 **Hello,**
 
-My name is Alex, more commonly known as **Minerbeef** in the Minecraft Development Community. I am a young, enthusiastic programmer who has a passion for the following technologies:
+My name is Alex, I am a young, enthusiastic programmer who has a passion for the following technologies:
   - ![Java](https://img.shields.io/badge/Java-informational?style=plastic&logo=java&logoColor=black&color=f76802)
     ![JavaScript](https://img.shields.io/badge/Java%20Script-error?style=plastic&logo=javascript&logoColor=black&color=ef692f)
     ![Python](https://img.shields.io/badge/Python-informational?style=plastic&logo=python&logoColor=black&color=228ff5)
